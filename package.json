@@ -1,0 +1,22 @@
+{
+  "name": "nodehm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "fs-extra": "10.0.0",
+    "loadash": "1.0.0",
+    "mongo": "0.1.0",
+    "validator": "13.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "file": " node results/yarin.js",
+    "mongo": "node mongo.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
